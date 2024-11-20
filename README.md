@@ -1,1 +1,1 @@
-print("This is a basic Read me text")
+this is the extended out put
